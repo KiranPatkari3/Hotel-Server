@@ -19,9 +19,6 @@ The frontend for this project is available here:
 - **Backend**: Java, Spring Boot, Spring Security
 - **Database**: MySQL
 - **Authentication**: JWT-based Authentication
-- **API Documentation**: Swagger
-- **Deployment**: AWS EC2 / Railway
-
 
 ### 🔹 Prerequisites
 Ensure you have the following installed on your system:
